@@ -1,12 +1,28 @@
-====== Reflection/Transmission Coefficients ======
+#Reflection/Transmission Coefficients
 
+
+##Overview 
+We define coefficients to decribe the magnitudes of incident transverse E and
+M waves.
+These coeffiecients are relevent when a plane wave is incident at an
+interpahse separating two homogeneos regions where Maxwell's equations hold.
+\\
+
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/wave_diag.PNG)
+
+##Test Header
+Sample text\\
+More
+
+
+\\
+\\
+\\
+\\
+\\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/img1.PNG)
 \\
 
-\\
-
-\\
 
 
 
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/wave_diag.PNG)
