@@ -10,17 +10,26 @@ interpahse separating two homogeneos regions where Maxwell's equations hold.
 
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/wave_diag.PNG)
 
-##Test Header
-Sample text\\
-More
+##Equations
+To derive these coeffcients we apply Maxwell's equations at the boundry
+between the two regions.
+\\
+Looking at the continuous E field and the tangential H field at the interphase and the impediance of the two regions we can measue the magnitude of the reflected wave.
+We define the reflection coefficient(uppercase gamma) as the magnitude of the incident wave E field divided by the magnitude of the the reflected E field.
+We recieve the following equation.
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/tans_coff.PNG)
+\\
+We define the tranmission coeffcient(lowercase tau) as the magnitude of the
+incident wave E field divided by the magnitude of the transmitted E field. 
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ref_coff.PNG)
+\\
+##Special Cases
 
 
 \\
-\\
-\\
-\\
-\\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/img1.PNG)
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/img.PNG)
 \\
 
 
