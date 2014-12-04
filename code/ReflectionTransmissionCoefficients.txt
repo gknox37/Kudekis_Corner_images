@@ -1,4 +1,12 @@
 ====== Reflection/Transmission Coefficients ======
 
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/img1.PNG)
+\\
 
+\\
+
+\\
+
+
+
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/wave_diag.PNG)
