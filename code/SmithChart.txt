@@ -2,7 +2,7 @@
 ##Actual Chart
 \\ 
 \\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex.PNG)
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex1.PNG)
 \\
 \\ 
 \\
@@ -21,7 +21,8 @@ With resistive component R and reactive component X
 For this article I will be using the simple example:
 \\
 $Z = 2 + j2$
-\\with characteristic line impedance of 1 ohm.
+\\
+with characteristic line impedance of 1 ohm.
 ##Steps 
 ###1.Normalize by impedance.
 To normalize simply divide the impedance by the characteristic impedance of
@@ -41,7 +42,7 @@ described by the reatance is your impedance value on the smith chart.
 For our example the reactance would also be 1. The plotted point would be:
 \\ 
 \\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex1.PNG)
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex2.PNG)
 \\
 ###3.Draw Circle 
 After ploting your impedance on the smith chart you should now draw
@@ -51,12 +52,13 @@ origin to your plotted impedance. You should use a compass for this.
 Should look like this:
 \\ 
 \\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex2.PNG)
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex3.PNG)
 \\
-You can now extend from the radius of the circle down to find the VSWR as
+You can now extend from the radius of the circle down to find the VSWR at the
+bottom of the chart
 shown here 
 \\ 
 \\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex3.PNG)
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex4.PNG)
 \\
 ###Extra stuff 	
