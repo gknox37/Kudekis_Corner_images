@@ -37,6 +37,10 @@ recieve the following equation:
 \\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/trans_coff.PNG)
 \\
+Also,through more algebra we see that:
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/alt.PNG)
+\\
 ##Special Cases
 ###Perfect conductor
 When the region the wave is traveling into is a perfect conduction with
