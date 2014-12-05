@@ -2,16 +2,26 @@
 ##Actual Chart
 \\ 
 \\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex.PNG)
+\\
+\\ 
+\\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/sc.PNG)
 \\
 The smith chart is a graphical tool that allows us to find tranmission line
 parameters easily. 
-It allows us to plot a complex impedance and then ,\\Impedance in this context is a complex number defined as:
+It allows us to plot a complex impedance. Impedance in this context is a complex number defined as:
 \\ 
 \\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/cn.PNG)
+$Z = R + jX$
 \\
-With resistive component R and reactive part X
+With resistive component R and reactive component X
+\\
+\\
+For this article I will be using the simple example:
+\\
+$Z = 2 + j2$
+\\with characteristic line impedance of 1 ohm.
 ##Steps 
 ###1.Normalize by impedance.
 To normalize simply divide the impedance by the characteristic impedance of
@@ -20,14 +30,33 @@ of the transmission line
 You now have the resistance and the reactance that you can use of the smith
 chart itself. The resistnace value can be located along the the horizontal
 real axis. The value is shown in circles that expand outword as you move away
-from the point (1,0).
+from right of side of the smith chart. For our example the resistance would be
+1.
 \\
-The reactance value can be located on arches that eminate from the point
-(1,0). 
+The reactance value can be located on arches that eminate from the point on
+the right of the smith chart. 
 Remeber that if the reactance is negative, it is located in the lower half of the smith chart circle.
-The point at which the circle described by the resistance meets the arch described by the reatance is your impedance value on the smith chart
+The point at which the circle described by the resistance meets the arch
+described by the reatance is your impedance value on the smith chart.
+For our example the reactance would also be 1. The plotted point would be:
+\\ 
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex1.PNG)
+\\
 ###3.Draw Circle 
-After ploting your impedance on the smith chart you should now draw VSWR
+After ploting your impedance on the smith chart you should now draw
+VSWR(Voltage standing wave ratio)
 circle that is centered at the origin, and has a radius that extends from
-origin to your plotted impedance.
-
+origin to your plotted impedance. You should use a compass for this.
+Should look like this:
+\\ 
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex2.PNG)
+\\
+You can now extend from the radius of the circle down to find the VSWR as
+shown here 
+\\ 
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex3.PNG)
+\\
+###Extra stuff 	
