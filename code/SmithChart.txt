@@ -4,10 +4,6 @@
 \\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ex1.PNG)
 \\
-\\ 
-\\
-![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/sc.PNG)
-\\
 The smith chart is a graphical tool that allows us to find tranmission line
 parameters easily. 
 It allows us to plot a complex impedance. Impedance in this context is a complex number defined as:
