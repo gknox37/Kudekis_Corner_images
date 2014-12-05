@@ -1,12 +1,13 @@
 #Reflection/Transmission Coefficients
 
 \\
-\\
 ##Overview 
 We define coefficients to decribe the magnitudes of incident transverse E and
 M waves.
 These coeffiecients are relevent when a plane wave is incident at an
 interpahse separating two homogeneos regions where Maxwell's equations hold.
+Below is a diagram an incident TEM wave phasors as well as the reflected and
+transmitted waves.
 \\
 
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/wave_diag.PNG)
@@ -15,15 +16,22 @@ interpahse separating two homogeneos regions where Maxwell's equations hold.
 To derive these coeffcients we apply Maxwell's equations at the boundry
 between the two regions.
 \\
-Looking at the continuous E field and the tangential H field at the interphase and the impediance of the two regions we can measue the magnitude of the reflected wave.
+Looking at the continuous E field and the tangential H field at the interphase
+and the impediance of the two regions we can measue the magnitude of the
+reflected wave. We
+\\ 
+\\
+![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/imp.PNG)
+\\
 We define the reflection coefficient(uppercase gamma) as the magnitude of the incident wave E field divided by the magnitude of the the reflected E field.
-We recieve the following equation.
+We recieve the following equation:
 \\
 \\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/ref_coff.PNG)
 \\
 We define the tranmission coeffcient(lowercase tau) as the magnitude of the
-incident wave E field divided by the magnitude of the transmitted E field.
+incident wave E field divided by the magnitude of the transmitted E field. We
+recieve the following equation:
 \\ 
 \\
 ![](https://raw.githubusercontent.com/gknox37/Kudekis_Corner_images/master/trans_coff.PNG)
